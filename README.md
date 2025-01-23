@@ -23,13 +23,13 @@ Open your browser and navigate to http://localhost/ecommerce-website/ to access 
 The admin panel is available at http://localhost/ecommerce-website/admin/ where you can log in and manage products.
 
 
-![login page](./screenshot/login.png)
+![login page](./login.png)
 ![register page](./screenshot/register.png)
 ![home page](./screenshot/home.png)
-![cart page](./screenshot/cart.png)
-![admin login page](./screenshot/admin.png)
-![admin dashboard page](./screenshot/AdminDashboard.png)
-![manage product](./screenshot/Manageproduct)
+![cart page](./screenshot/Cart.png)
+![admin login page](./screenshot/Admin.png)
+![admin dashboard page](./screenshot/Admin_Dashboard.png)
+![manage product](./screenshot/Manage_product)
 ![database](./screenshot/DB.png)
 ![database](./screenshot/DB1.png)
 ![database](./screenshot/DB-.png)
