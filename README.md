@@ -27,9 +27,12 @@ The admin panel is available at http://localhost/ecommerce-website/admin/ where 
 ![register page](./screenshot/register.png)
 ![home page](./screenshot/home.png)
 ![cart page](./screenshot/Cart.png)
+
 ![admin login page](./screenshot/Admin.png)
 ![admin dashboard page](./screenshot/admindashboard.png)
-![manage product](./screenshot/manageproduct)
+![ product adding](./screenshot/productadd.png)
+![manage product](./screenshot/manageproduct.png)
+
 ![database](./screenshot/DB.png)
 ![database](./screenshot/DB1.png)
 ![database](./screenshot/DB-.png)
