@@ -21,3 +21,5 @@ Run the Project
 Copy the project folder (ecommerce-website) to your htdocs directory inside your XAMPP installation folder (usually C:\xampp\htdocs\).
 Open your browser and navigate to http://localhost/ecommerce-website/ to access the site.
 The admin panel is available at http://localhost/ecommerce-website/admin/ where you can log in and manage products.
+
+![screenshot of the ecommerce project ](./screenshot)
