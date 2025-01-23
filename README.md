@@ -22,9 +22,9 @@ Copy the project folder (ecommerce-website) to your htdocs directory inside your
 Open your browser and navigate to http://localhost/ecommerce-website/ to access the site.
 The admin panel is available at http://localhost/ecommerce-website/admin/ where you can log in and manage products.
 
-
-![login page](./login.png)
 ![register page](./screenshot/register.png)
+![login page](./login.png)
+
 ![home page](./screenshot/home.png)
 ![cart page](./screenshot/Cart.png)
 
